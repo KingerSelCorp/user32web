@@ -2,3 +2,5 @@
 just a webpage im making for my projects and stuff
 
 will include login, a labs section, and more
+
+also its gonna be hosted on render
